@@ -5,7 +5,7 @@ public class jogodavelha {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
+        String jog3;
         String jog = "X";
         String jog2 = "O";
 
@@ -147,7 +147,7 @@ public class jogodavelha {
                 n++;
                 continue;
 
-
+   
 
 
             }if (d == 6 && (e[1][2].equals("6"))){
